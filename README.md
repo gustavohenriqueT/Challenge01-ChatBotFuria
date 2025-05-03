@@ -16,5 +16,5 @@ Webchat interativo para fãs da FURIA Esports (CS:GO)
 
 ## Tecnologias
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, Node.Js, Express
 - Hospedagem: LOCAL
