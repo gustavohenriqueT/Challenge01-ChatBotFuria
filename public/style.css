@@ -21,7 +21,7 @@ body {
 }
 
 .chat-header {
-    background-color: #e31937;
+    background-color: #464646;
     padding: 15px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -67,7 +67,7 @@ body {
 
 .user-message {
     align-self: flex-end;
-    background-color: #e31937;
+    background-color: #464646;
     border-bottom-right-radius: 5px;
 }
 
@@ -88,7 +88,7 @@ body {
 }
 
 #send-btn {
-    background-color: #e31937;
+    background-color:  #464646;
     color: white;
     border: none;
     border-radius: 50%;
